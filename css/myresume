@@ -11,5 +11,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 .bg-primary {
   background-color: #5cbaed !important;
-  background-image: url("img/asfalt-light.png");
+  background-image: url("img/absurdity.png");
 }
