@@ -17,3 +17,9 @@ section.resume-section {
 	background-position:top left;
 	background-repeat: repeat;
         background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png")
+		
+.bg-primary {
+  background-color: #bd5d38 !important;
+  background-position:top left;
+  background-repeat: repeat;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png")
