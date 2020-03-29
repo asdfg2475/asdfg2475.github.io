@@ -13,4 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform: none;
 }
 
-
+section.resume-section {
+	background-position:top left;
+	background-repeat: repeat;
+        background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png")
