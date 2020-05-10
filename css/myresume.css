@@ -35,10 +35,10 @@ section.resume-section {
 }
 
 .box{
-  background-color: white;
+  background-color: #FFECC9;
   width: 300px;
-  height: 300px;
-  border: 15px solid darkred;
+  height: 400px;
+  border: 15px solid #FFE8E8
   padding: 50px;
   margin: 20px;
   display: inline-block;
