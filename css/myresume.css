@@ -33,12 +33,13 @@ section.resume-section {
   background-repeat: repeat;
   background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");
 }
+
 .box{
   background-color: white;
-  width: 250px;
-  height: 250px;
+  width: 300px;
+  height: 300px;
   border: 15px solid darkred;
-  padding: 25px;
-  margin: 10px;
+  padding: 50px;
+  margin: 20px;
   display: inline-block;
-  }
+}
